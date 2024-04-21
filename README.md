@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @valericz
-- 👀 I’m interested in cats?
 - 🌱 I’m currently learning swift
 - 📫 valerieznb@gmail.com
 
