@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @valericz
+- 👋 Hi, I’m Valerie Zhang
 - 🌱 I’m currently learning swift
 - 📫 valerieznb@gmail.com
 
